@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Sepideh 👋
 
-<!--
-**sepideh-vaziry/sepideh-vaziry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer specializing in secure, scalable, and performant backend systems. Expert in designing and implementing microservices architectures, automating deployments, and optimizing database performance. Proficient in Spring Boot, MySQL, PostgreSQL, Redis, RabbitMQ, GitLab CI, Docker, Kubernetes, Helm, and ArgoCD.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Kotlin
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Message Queuing:** RabbitMQ, Apache Kafka
+- **CI/CD:** GitLab CI/CD
+- **Containerization:** Docker, Kubernetes
+- **Infrastructure:** Helm, ArgoCD
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sepideh-vaziry&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sepideh-vaziry/)
+- [Email](mailto:sepideh.vaziry@gmail.com)
+
