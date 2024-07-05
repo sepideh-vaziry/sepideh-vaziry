@@ -12,10 +12,6 @@ Java Backend Developer specializing in secure, scalable, and performant backend 
 - **Containerization:** Docker, Kubernetes
 - **Infrastructure:** Helm, ArgoCD
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sepideh-vaziry&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sepideh-vaziry/)
