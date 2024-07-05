@@ -5,7 +5,7 @@ Java Backend Developer specializing in secure, scalable, and performant backend 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Java, Kotlin
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Boot, Android
 - **Databases:** MySQL, PostgreSQL, Redis
 - **Message Queuing:** RabbitMQ, Apache Kafka
 - **CI/CD:** GitLab CI/CD
