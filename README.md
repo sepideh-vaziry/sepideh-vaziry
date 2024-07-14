@@ -14,6 +14,4 @@ Java Backend Developer specializing in secure, scalable, and performant backend 
 
 ## 🔗 Connect with Me
 
-<a href="https://sepideh-vaziry.github.io/"><img src="https://img.shields.io/badge/website-black?&style=for-the-badge&logo=About.me&logolColor=42F425" height=25></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepideh-vaziry/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sepideh.vaziry@gmail.com)
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sepideh-vaziry.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepideh-vaziry/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sepideh.vaziry@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sepideh.vaziry)
