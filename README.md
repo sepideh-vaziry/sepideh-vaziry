@@ -14,10 +14,7 @@ Java Backend Developer specializing in secure, scalable, and performant backend 
 
 ## 🔗 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-</p>
+<a href="https://sepideh-vaziry.github.io/"><img src="https://img.shields.io/badge/website-black?&style=for-the-badge&logo=About.me&logolColor=42F425" height=25></a>  
+<a href="https://www.linkedin.com/in/sepideh-vaziry/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
+
 
