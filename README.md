@@ -12,6 +12,10 @@ Java Backend Developer specializing in secure, scalable, and performant backend 
 - **Containerization:** Docker, Kubernetes
 - **Infrastructure:** Helm, ArgoCD
 
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sepideh-vaziry&layout=compact&langs_count=8&theme=gotham"/>
+</p>
+
 ## 🔗 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sepideh-vaziry.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepideh-vaziry/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sepideh.vaziry@gmail.com) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sepideh.vaziry)
